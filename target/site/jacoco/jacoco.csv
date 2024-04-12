@@ -1,0 +1,8 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+ttpo-1,org.example.third.entity.enums,GamblerType,0,21,0,0,0,4,0,1,0,1
+ttpo-1,org.example.third.entity.enums,HeartType,0,21,0,0,0,4,0,1,0,1
+ttpo-1,org.example.second,Graph,0,88,0,10,0,20,0,9,0,4
+ttpo-1,org.example.first.math,Arccosine,0,102,0,12,0,20,0,9,0,3
+ttpo-1,org.example.third.entity,Creature,0,93,0,6,0,24,0,12,0,8
+ttpo-1,org.example.third.entity,Woman,0,37,0,6,0,9,0,6,0,3
+ttpo-1,org.example.third.entity,Man,0,37,0,6,0,9,0,6,0,3
